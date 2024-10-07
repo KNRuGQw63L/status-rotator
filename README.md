@@ -1,4 +1,4 @@
-# Discord automatic status rotator 🤖
+# Discord automatic status rotator 🤖 
 
 ## Automated message sender & status rotator 
 
