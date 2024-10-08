@@ -6,7 +6,7 @@
 
 0. Install python
 1. Download the repository as a ZIP     
-2. Extract the ZIP file in your file exporer   
+2. Extract the ZIP file in your file exporer    
 3. Go in your extracted folder and open start.bat  
 4. Set up rotating statuses/messages    
     
