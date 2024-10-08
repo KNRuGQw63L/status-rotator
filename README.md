@@ -14,4 +14,4 @@
  
 # Disclaimer  
     
-Dont do anything bad, im not responsibe!   
+Dont do anything bad, im not responsibe!    
