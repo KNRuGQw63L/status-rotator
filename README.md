@@ -1,7 +1,7 @@
 # Discord automatic status rotator 🤖   
  
 ## Automated message sender & status rotator    
-  
+   
 # Setting it up   
  
 0. Install python
