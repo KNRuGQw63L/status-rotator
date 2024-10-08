@@ -3,7 +3,7 @@
 ## Automated message sender & status rotator    
   
 # Setting it up   
-
+ 
 0. Install python
 1. Download the repository as a ZIP     
 2. Extract the ZIP file in your file exporer    
