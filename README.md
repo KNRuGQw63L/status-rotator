@@ -10,7 +10,7 @@
 3. Go in your extracted folder and open start.bat  
 4. Set up rotating statuses/messages  
    
-5. Enjoy!
+5. Enjoy! 
 
 # Disclaimer
 
