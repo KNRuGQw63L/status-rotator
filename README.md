@@ -2,7 +2,7 @@
  
 ## Automated message sender & status rotator   
  
-# Setting it up  
+# Setting it up   
 
 0. Install python
 1. Download the repository as a ZIP     
